@@ -131,37 +131,37 @@ Cura Settings:
 	* Rotate parts 15° to align infill with shell (???)
 
 
-| Name | Qty | STL | Gcode | Time | Total Time | Grams | Total Grams |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| Name | Qty | Color | STL | Gcode | Time | Total Time | Grams | Total Grams |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | **FRAME** |
-| Bottom Corner     | 2 | [Bottom_CornerC.STL](MPCNC_BURLY_C_23p5/files/Bottom_CornerC.STL) | []() | 2:35 | 5:10 | 34.7 | 69.4 |
-| Bottom Corner Mirror   | 2 | [BottomM\_CornerC.STL](MPCNC_BURLY_C_23p5/files/BottomM_CornerC.STL) | []() | 2:35 | 5:10 | 34.7 | 69.4 |
-| Lock Corner       | 2 | [Lock-CornerC.STL](MPCNC_BURLY_C_23p5/files/Lock-CornerC.STL) | [UM2\_LockCorners\_1each.gcode](UM2_LockCorners_1each.gcode) (2 up) | 1:49 | 3:38 | 18 | 36 |
-| Lock Corner Mirror      | 2 | [LockM_CornerC.STL](MPCNC_BURLY_C_23p5/files/LockM_CornerC.STL) | ^^^^ | 1:49 | 3:38 | 18 | 36 |
-| Top Corner       | 2 | [](MPCNC_BURLY_C_23p5/files/) | []() | 2:06 | 4:12 | 32.9 | 66.1 |
-| Top Corner Mirror       | 2 | [](MPCNC_BURLY_C_23p5/files/) | []() | 2:06 | 4:12 | 32.9 | 66.1 |
-| Spacer Corner (Burly) | 4 | [](MPCNC_BURLY_C_23p5/files/) | []() | 0:15 | 1:05 | 4.17 | 16.6 |
-| Foot (2018)       | 4 [1✅] | [C-Foot\_2018.STL](MPCNC_BURLY_C_23p5/files/C-Foot_2018.STL) | [UM2\_C-Foot_2018.gcode](UM2_C-Foot_2018.gcode) | 3:39 | 14:36 | 38 | 152 |
+| Bottom Corner     | 2 | BLACK | [Bottom_CornerC.STL](MPCNC_BURLY_C_23p5/files/Bottom_CornerC.STL) | []() | 2:35 | 5:10 | 34.7 | 69.4 |
+| Bottom Corner Mirror   | 2 | BLACK | [BottomM\_CornerC.STL](MPCNC_BURLY_C_23p5/files/BottomM_CornerC.STL) | []() | 2:35 | 5:10 | 34.7 | 69.4 |
+| Lock Corner       | 2 [1✅] | BLACK | [Lock-CornerC.STL](MPCNC_BURLY_C_23p5/files/Lock-CornerC.STL) | [UM2\_LockCorners\_1each.gcode](UM2_LockCorners_1each.gcode) (2 up) | 1:49 | 3:38 | 18 | 36 |
+| Lock Corner Mirror      | 2 [1✅] | BLACK | [LockM_CornerC.STL](MPCNC_BURLY_C_23p5/files/LockM_CornerC.STL) | ^^^^ | 1:49 | 3:38 | 18 | 36 |
+| Top Corner       | 2 ✅ | RED | [](MPCNC_BURLY_C_23p5/files/) | [UM2\_Top\_CornerC\_test.gcode](UM2_Top_CornerC_test.gcode) | 2:30 |   | 25 | 66.1 |
+| Top Corner Mirror       | 2 | RED | [](MPCNC_BURLY_C_23p5/files/) | []() | 2:06 | 4:12 | 32.9 | 66.1 |
+| Spacer Corner (Burly) | 4 | BLACK | [](MPCNC_BURLY_C_23p5/files/) | []() | 0:15 | 1:05 | 4.17 | 16.6 |
+| Foot (2018)       | 4 ✅ | RED | [C-Foot\_2018.STL](MPCNC_BURLY_C_23p5/files/C-Foot_2018.STL) | [UM2\_C-Foot_2018.gcode](UM2_C-Foot_2018.gcode) | 3:39 | 14:36 | 38 | 152 |
 |  ^^^^          | | | [UM2\_C-Foot\_2018\_x3.gcode](UM2_C-Foot_2018_x3.gcode) (3 up) | 11:05 | 11:05 | 114 | 114 |
 | **XY ROLLERS** |
-| Roller          | 2 | [C-Roller.STL](MPCNC_BURLY_C_23p5/files/C-Roller.STL) | [UM2\_C-Roller.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-Roller.gcode) | 7:39 | 15:18 | 82 | 164 |
-| Roller Mirror   | 2 | [C-RollerM.STL](MPCNC_BURLY_C_23p5/files/C-RollerM.STL) | [UM2_C-RollerM.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerM.gcode) | 6:43 | 13:26 | 68 | 136 |
-| Roller Plate (optional Dual) | 4 | [C-RollerPlate.STL](MPCNC_BURLY_C_23p5/files/C-RollerPlate.STL) | [UM2\_C-RollerPlate.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerPlate.gcode) (4 up) | 1:11 | 1:11 | 9 | 9 |
-| Roller Stepper Mount  | 4 | [C-RollerMount.STL](MPCNC_BURLY_C_23p5/files/C-RollerMount.STL) | [UM2\_C-RollerMount.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerMount.gcode) | 4:02 | 16:08 | 41 | 164 |
+| Roller          | 2 | BLACK | [C-Roller.STL](MPCNC_BURLY_C_23p5/files/C-Roller.STL) | [UM2\_C-Roller.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-Roller.gcode) | 7:39 | 15:18 | 82 | 164 |
+| Roller Mirror   | 2 | BLACK | [C-RollerM.STL](MPCNC_BURLY_C_23p5/files/C-RollerM.STL) | [UM2_C-RollerM.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerM.gcode) | 6:43 | 13:26 | 68 | 136 |
+| Roller Plate (optional Dual) | 4 ✅ | RED | [C-RollerPlate.STL](MPCNC_BURLY_C_23p5/files/C-RollerPlate.STL) | [UM2\_C-RollerPlate_x4.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerPlate_x4.gcode) (4 up) | 1:10 | 1:10 | 9 | 9 |
+| Roller Stepper Mount  | 4 | RED | [C-RollerMount.STL](MPCNC_BURLY_C_23p5/files/C-RollerMount.STL) | [UM2\_C-RollerMount.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerMount.gcode) | 4:02 | 16:08 | 41 | 164 |
 | **MIDDLE ASSEMBLY** |
-| XY (Burly)      | 2 | [XY\_C\_Burly.STL](MPCNC_BURLY_C_23p5/files/XY_C_Burly.STL) | [UM2\_XY\_C\_Burly.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_XY_C_Burly.gcode) | 12:24 | 24:48 | 121 | 242 |
-| XYZ (Burly)     | 2 [1✅] | [XYZ\_C\_Burly.STL](MPCNC_BURLY_C_23p5/files/XYZ_C_Burly.STL) | [UM2\_XYZ\_C\_Burly.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_XYZ_C_Burly.gcode) | 6:48 | 13:36 | 66 | 132 |
-| Gantry Spacer  | 2 | [Gantry\_Spacer\_C.STL](MPCNC_BURLY_C_23p5/files/Gantry_Spacer_C.STL) | [UM2\_Gantry\_Spacer\_C.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_Gantry_Spacer_C.gcode) (2 up) | 1:32 | 1:32 | 13 | 13 |
-| Nut Trap (Burly)   | 2 | [Nut\_Trap\_Burly.STL](MPCNC_BURLY_C_23p5/files/Nut_Trap_Burly.STL) | [UM2\_Nut\_Trap\_Burly.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_Nut_Trap_Burly.gcode) (2 up) | 1:47 | 1:47 | 15 | 15 |
+| XY (Burly)      | 2 | BLACK | [XY\_C\_Burly.STL](MPCNC_BURLY_C_23p5/files/XY_C_Burly.STL) | [UM2\_XY\_C\_Burly.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_XY_C_Burly.gcode) | 12:24 | 24:48 | 121 | 242 |
+| XYZ (Burly)     | 2 ✅ | RED | [XYZ\_C\_Burly.STL](MPCNC_BURLY_C_23p5/files/XYZ_C_Burly.STL) | [UM2\_XYZ\_C\_Burly.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_XYZ_C_Burly.gcode) | 6:48 | 13:36 | 66 | 132 |
+| Gantry Spacer  | 2 | BLACK | [Gantry\_Spacer\_C.STL](MPCNC_BURLY_C_23p5/files/Gantry_Spacer_C.STL) | [UM2\_Gantry\_Spacer\_C.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_Gantry_Spacer_C.gcode) (2 up) | 1:32 | 1:32 | 13 | 13 |
+| Nut Trap (Burly)   | 2 | BLACK | [Nut\_Trap\_Burly.STL](MPCNC_BURLY_C_23p5/files/Nut_Trap_Burly.STL) | [UM2\_Nut\_Trap\_Burly.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_Nut_Trap_Burly.gcode) (2 up) | 1:47 | 1:47 | 15 | 15 |
 | **Z AXIS** |
-| Tool Mount (#6-32) | 1 | [Tool\_Mount\_C\_6-32.STL](MPCNC_BURLY_C_23p5/files/Tool_Mount_C_6-32.STL) | [UM2\_Tool\_Mount\_C\_6-32.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_Tool_Mount_C_6-32.gcode) | 5:14 | 5:14 | 50 | 50 |
-| Z Lower (Burly) | 1 | [Z\_Lower\_C\_Burly.STL](MPCNC_BURLY_C_23p5/files/Z_Lower_C_Burly.STL) | []() |  |  | | |
-| Z Motor (Burly) | 1 | [Z\_Motor\_C\_Burly.STL](MPCNC_BURLY_C_23p5/files/Z_Motor_C_Burly.STL) | []() |  |  | | |
-| Z Lower & Z Motor (Combo Print) |  | | [UM2\_Z\_Lower\_Motor.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_Z_Lower_Motor.gcode) | 6:44 | 6:44 | 65 | 65 |
+| Tool Mount (#6-32) | 1 | RED | [Tool\_Mount\_C\_6-32.STL](MPCNC_BURLY_C_23p5/files/Tool_Mount_C_6-32.STL) | [UM2\_Tool\_Mount\_C\_6-32.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_Tool_Mount_C_6-32.gcode) | 5:14 | 5:14 | 50 | 50 |
+| Z Lower (Burly) | 1 | BLACK | [Z\_Lower\_C\_Burly.STL](MPCNC_BURLY_C_23p5/files/Z_Lower_C_Burly.STL) | []() |  |  | | |
+| Z Motor (Burly) | 1 ✅ | RED | [Z\_Motor\_C\_Burly.STL](MPCNC_BURLY_C_23p5/files/Z_Motor_C_Burly.STL) | []() |  |  | | |
+| Z Lower & Z Motor (Combo Print) |  | | [UM2\_Z\_Lower\_Motor.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_Z_Lower_Motor.gcode) | 7:19 |  | 73 |   |
 | **TOOL MOUNTS** |
-| [HF Cutout Tool Mount](https://www.thingiverse.com/thing:1645698) | 1 | [hf\_tool\_mount\_top.stl](MPCNC_Harbor_Fright_cutout_tool_mount/files/hf_tool_mount_top.stl) | [UM2\_hf\_tool\_mount\_top.gcode](MPCNC_Harbor_Fright_cutout_tool_mount/gcode/UM2_hf_tool_mount_top.gcode) | 2:34 |  | 24 |  |
-|  | 1 | [hf\_tool\_mount\_top\_strap.stl](MPCNC_Harbor_Fright_cutout_tool_mount/files/hf_tool_mount_top_strap.stl) | ^^^^
-|  | 1 | [hf\_tool\_mount\_bottom.stl](MPCNC_Harbor_Fright_cutout_tool_mount/files/hf_tool_mount_bottom.stl) | [UM2\_hf\_tool\_mount\_bottom.gcode](MPCNC_Harbor_Fright_cutout_tool_mount/gcode/UM2_hf_tool_mount_bottom.gcode) | 2:11 | | 20 | |
+| [HF Cutout Tool Mount](https://www.thingiverse.com/thing:1645698) | 1 | RED | [hf\_tool\_mount\_top.stl](MPCNC_Harbor_Fright_cutout_tool_mount/files/hf_tool_mount_top.stl) | [UM2\_hf\_tool\_mount\_top.gcode](MPCNC_Harbor_Fright_cutout_tool_mount/gcode/UM2_hf_tool_mount_top.gcode) | 2:34 |  | 24 |  |
+|  | 1 | RED | [hf\_tool\_mount\_top\_strap.stl](MPCNC_Harbor_Fright_cutout_tool_mount/files/hf_tool_mount_top_strap.stl) | ^^^^
+|  | 1 | RED | [hf\_tool\_mount\_bottom.stl](MPCNC_Harbor_Fright_cutout_tool_mount/files/hf_tool_mount_bottom.stl) | [UM2\_hf\_tool\_mount\_bottom.gcode](MPCNC_Harbor_Fright_cutout_tool_mount/gcode/UM2_hf_tool_mount_bottom.gcode) | 2:11 | | 20 | |
 
 * [MPCNC Belt Mount/Tensioner](https://www.thingiverse.com/thing:1833934) Clips on orginal ends
 * [Rotary 4th axis for MPCNC](https://www.thingiverse.com/thing:1877336)
@@ -179,14 +179,21 @@ Cura Settings:
 
 ## Print Log
 
-| Date | Part File | Time |Complete |
-|:----:|:---------:|:----:|:----:|
-| 1/14/2019 | UM2\_C-Foot\_2018.gcode | 3:39 | ✅ |
-| 1/14/2019 | UM2\_XYZ\_C\_Burly.gcode | 6:48 | ✅ |
-| 1/15/2019 | UM2\_LockCorners\_1each.gcode | 3:38 | running |
-| 1/15/2019 | UM2\_C-Foot\_2018\_x3.gcode | 11:05 |  |
-| 1/??/2019 | UM2\_Bottom\_CornerC\_test.gcode | 3:04 |  |
-| 1/??/2019 | UM2\_XYZ\_C\_Burly.gcode | 6:48 |  |
-| 1/??/2019 | UM2\_LockCorners\_1each.gcode | 3:38 |  |
-| 1/??/2019 | UM2\_C-Roller.gcode | 7:39 |  |
-
+| Date | Part File | Time | Color | Complete |
+|:----:|:---------:|:----:|:----:|:----:|
+| 1/14/2019 | UM2\_C-Foot\_2018.gcode | 3:39 | RED | ✅ |
+| 1/14/2019 | UM2\_XYZ\_C\_Burly.gcode | 6:48 | RED | ✅ |
+| 1/15/2019 | UM2\_LockCorners\_1each.gcode | 3:38 | RED | ✅ |
+| 1/15/2019 | UM2\_C-Foot\_2018\_x3.gcode | 11:05 | RED | ✅ |
+| 1/16/2019 | UM2\_Top\_CornerC\_test.gcode | 2:30 | RED | ✅ |
+| 1/16/2019 | UM2\_C-RollerPlate\_x4.gcode | 1:10 | RED | ✅ |
+| 1/16/2019 | UM2\_Z\_Motor\_XYZ\_C\_Burly.gcode | 10:54 | RED | ✅ |
+| 1/17/2019 | UM2\_LockCorners\_1each.gcode | 3:38 | BLACK | ✅ |
+| 1/17/2019 | UM2\_Top\_CornerC\_test.gcode | 2:30 | RED | ✅ |
+| 1/17/2019 | UM2\_Bottom\_Corners\_x4.gcode | 11:58 | BLACK | running |
+| 1/17/2019 | UM2\_C-RollerMount\_x2.gcode | 8:53 | RED | running |
+| 1/18/2019 | UM2\_Gantry\_Corner\_Spacers.gcode | 3:08 | BLACK | next |
+| 1/18/2019 | UM2\_TopM\_CornerC.gcode | 2:30 | RED | next |
+| 1/??/2019 | UM2\_C-Roller\_1each.gcode | 14:36 | BLACK | |
+| 1/??/2019 | UM2\_C-RollerMount\_x2 | 8:53 | RED |  |
+| 1/??/2019 | UM2\_C-Roller\_1each.gcode | 14:36 | BLACK | |
