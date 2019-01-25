@@ -143,7 +143,7 @@ Cura Settings:
 | Spacer Corner (Burly) | 4 ✅ | BLACK | [](MPCNC_BURLY_C_23p5/files/) | []() | 0:15 | 1:05 | 4.17 | 16.6 |
 | Foot (2018)       | 4 ✅ | RED | [C-Foot\_2018.STL](MPCNC_BURLY_C_23p5/files/C-Foot_2018.STL) | [UM2\_C-Foot_2018.gcode](UM2_C-Foot_2018.gcode) | 3:39 | 14:36 | 38 | 152 |
 |  ^^^^          | | | [UM2\_C-Foot\_2018\_x3.gcode](UM2_C-Foot_2018_x3.gcode) (3 up) | | 11:05 | 11:05 | 114 | 114 |
-| Corner Anchor Set | 4 | BLACK | [UM2\_belt\_anchor\_fullset.gcode](UM2_belt_anchor_fullset.gcode) | | 4:04 |  | 34 | | 
+| Corner Anchor Set | 4 ✅ | BLACK | [UM2\_belt\_anchor\_fullset.gcode](UM2_belt_anchor_fullset.gcode) | | 4:04 |  | 34 | | 
 | **XY ROLLERS** |
 | Roller          | 2 ✅ | BLACK | [C-Roller.STL](MPCNC_BURLY_C_23p5/files/C-Roller.STL) | [UM2\_C-Roller.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-Roller.gcode) | 7:39 | 15:18 | 82 | 164 |
 | Roller Mirror   | 2 ✅ | BLACK | [C-RollerM.STL](MPCNC_BURLY_C_23p5/files/C-RollerM.STL) | [UM2_C-RollerM.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerM.gcode) | 6:43 | 13:26 | 68 | 136 |
@@ -163,7 +163,7 @@ Cura Settings:
 | [HF Cutout Tool Mount](https://www.thingiverse.com/thing:1645698) | 1 ✅ | RED | [hf\_tool\_mount\_top.stl](MPCNC_Harbor_Fright_cutout_tool_mount/files/hf_tool_mount_top.stl) | [UM2\_hf\_tool\_mount\_top.gcode](MPCNC_Harbor_Fright_cutout_tool_mount/gcode/UM2_hf_tool_mount_top.gcode) | 2:34 |  | 24 |  |
 |  | 1 ✅ | RED | [hf\_tool\_mount\_top\_strap.stl](MPCNC_Harbor_Fright_cutout_tool_mount/files/hf_tool_mount_top_strap.stl) | ^^^^
 |  | 1 | RED | [hf\_tool\_mount\_bottom.stl](MPCNC_Harbor_Fright_cutout_tool_mount/files/hf_tool_mount_bottom.stl) | [UM2\_hf\_tool\_mount\_bottom.gcode](MPCNC_Harbor_Fright_cutout_tool_mount/gcode/UM2_hf_tool_mount_bottom.gcode) | 2:11 | | 20 | |
-| Pen Holder | 1 | RED | | UM2\_pen\_holder.gcode | 1:12 | | 11 | |
+| Pen Holder | 1 ✅ | RED | | UM2\_pen\_holder.gcode | 1:12 | | 11 | |
 
 * [MPCNC Belt Mount/Tensioner](https://www.thingiverse.com/thing:1833934) Clips on orginal ends
 * [Rotary 4th axis for MPCNC](https://www.thingiverse.com/thing:1877336)
@@ -204,10 +204,10 @@ Cura Settings:
 | 1/23/2019 | UM2\_hf\_tool\_mount\_top.gcode | 2:34 | RED | ✅ |
 | 1/23/2019 | UM2\_C-Roller\_1each.gcode | 14:36 | BLACK | ✅ |
 | 1/23/2019 | UM2\_Tool\_Mount\_C\_6-32.gcode | 5:14 | RED | ✅ |
-| 1/24/2019 | UM2\_belt\_anchor\_2each.gcode | 3:38 | BLACK | running |
-| 1/24/2019 | UM2\_pen\_holder.gcode | 1:12 | RED | running |
-| 1/24/2019 | UM2\_XY\_C\_Burly.gcode | 14:01 | BLACK | next |
-| 1/24/2019 | UM2\_Z\_Lower\_C\_Burly.gcode | 3:29 | RED | next |
+| 1/24/2019 | UM2\_pen\_holder.gcode | 1:12 | RED | ✅ |
+| 1/24/2019 | UM2\_belt\_anchor\_2each.gcode | 3:38 | BLACK | ✅ |
+| 1/24/2019 | UM2\_Z\_Lower\_C\_Burly.gcode | 3:29 | RED | running |
+| 1/24/2019 | UM2\_XY\_C\_Burly.gcode | 14:01 | BLACK | running |
 | 1/??/2019 | UM2\_hf\_tool\_mount\_bottom.gcode | 2:11 | BLACK | |
 | 1/??/2019 | UM2\_XY\_C\_Burly.gcode | 14:01 | BLACK | |
 
