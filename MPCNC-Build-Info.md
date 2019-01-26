@@ -147,7 +147,8 @@ Cura Settings:
 | **XY ROLLERS** |
 | Roller          | 2 ✅ | BLACK | [C-Roller.STL](MPCNC_BURLY_C_23p5/files/C-Roller.STL) | [UM2\_C-Roller.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-Roller.gcode) | 7:39 | 15:18 | 82 | 164 |
 | Roller Mirror   | 2 ✅ | BLACK | [C-RollerM.STL](MPCNC_BURLY_C_23p5/files/C-RollerM.STL) | [UM2_C-RollerM.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerM.gcode) | 6:43 | 13:26 | 68 | 136 |
-| Roller Plate (optional Dual) | 4 ✅ | RED | [C-RollerPlate.STL](MPCNC_BURLY_C_23p5/files/C-RollerPlate.STL) | [UM2\_C-RollerPlate_x4.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerPlate_x4.gcode) (4 up) | 1:10 | 1:10 | 9 | 9 |
+| Roller Plate (optional Dual) (OLD PLATE DON'T USE) | 4 ✅ | RED | [C-RollerPlate.STL](MPCNC_BURLY_C_23p5/files/C-RollerPlate.STL) | [UM2\_C-RollerPlate_x4.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerPlate_x4.gcode) (4 up) | 1:10 | 1:10 | 9 | 9 |
+| Endstop Roller Plate | 4 | RED | | UM2\_C\_Dual\_Endstop\_RollerPlate.gcode | 
 | Roller Stepper Mount  | 4 ✅ | RED | [C-RollerMount.STL](MPCNC_BURLY_C_23p5/files/C-RollerMount.STL) | [UM2\_C-RollerMount.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerMount.gcode) | 4:02 | 16:08 | 41 | 164 |
 | **MIDDLE ASSEMBLY** |
 | XY (Burly)      | 2 | BLACK | [XY\_C\_Burly.STL](MPCNC_BURLY_C_23p5/files/XY_C_Burly.STL) | [UM2\_XY\_C\_Burly.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_XY_C_Burly.gcode) | 12:24 | 24:48 | 121 | 242 |
@@ -206,9 +207,10 @@ Cura Settings:
 | 1/23/2019 | UM2\_Tool\_Mount\_C\_6-32.gcode | 5:14 | RED | ✅ |
 | 1/24/2019 | UM2\_pen\_holder.gcode | 1:12 | RED | ✅ |
 | 1/24/2019 | UM2\_belt\_anchor\_2each.gcode | 3:38 | BLACK | ✅ |
-| 1/24/2019 | UM2\_Z\_Lower\_C\_Burly.gcode | 3:29 | RED | running |
-| 1/24/2019 | UM2\_XY\_C\_Burly.gcode | 14:01 | BLACK | running |
-| 1/??/2019 | UM2\_hf\_tool\_mount\_bottom.gcode | 2:11 | BLACK | |
-| 1/??/2019 | UM2\_XY\_C\_Burly.gcode | 14:01 | BLACK | |
-
+| 1/24/2019 | UM2\_Z\_Lower\_C\_Burly.gcode | 3:29 | RED | ✅ |
+| 1/24/2019 | UM2\_XY\_C\_Burly.gcode | 14:01 | BLACK | ✅ |
+| 1/25/2019 | UM2\_hf\_tool\_mount\_bottom.gcode | 2:11 | RED | ✅ |
+| 1/25/2019 | UM2\_XY\_C\_Burly.gcode | 14:01 | BLACK | running |
+| 1/??/2019 | UM2\_C\_Dual\_Endstop\_RollerPlate.gcode | 1:41 | RED | next |
+| 1/??/2019 | UM2\_Stop\_Block\_2each.gcode | 0:53 | BLACK | next |
 

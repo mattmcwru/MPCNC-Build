@@ -1,0 +1,6 @@
+Sources for Mostly Printed CNC -Add On- Clean Dual endstops
+
+Mostly Printed CNC "MPCNC"  BURLY C-23.5mm OD (http://www.thingiverse.com/thing:724999)
+Mostly Printed CNC "MPCNC" BURLY F-25mm OD  (http://www.thingiverse.com/thing:790533)
+Mostly Printed CNC "MPCNC" BURLY J-25.4mm = 1" OD (http://www.thingiverse.com/thing:1671517)
+ZenXY - 23.5mm (http://www.thingiverse.com/thing:2477901)
