@@ -75,7 +75,8 @@ Cut List ([Calc](http://workshop-buddy.com/cut-optimization-calculator.html))
 | ✅ | #6-32 X.75 | 57 | $7.81 | HEX CAP $13.70 / 100 [Grainger](https://www.grainger.com/product/FABORY-6-32-x-3-4-6XA61) |
 |  |  |  | $0.30 | Machine Screw **DEAL** $0.52 / 100 [Grainger](https://www.grainger.com/product/GRAINGER-APPROVED-6-32-Machine-Screw-2EE88) |
 | ✅ | #6-32 Nylock nuts | 57 | $3.60 | $3.15 / 50 [Grainger](https://www.grainger.com/product/FABORY-6-32-Nylon-Insert-Lock-Nut-22RV93) |
-
+|  | M3-0.5 X 20 | 8 |  |  |
+|  | M3 Nuts     | 8 |  |  |
 
 ### Part Orders
 
@@ -213,4 +214,6 @@ Cura Settings:
 | 1/25/2019 | UM2\_XY\_C\_Burly.gcode | 14:01 | BLACK | running |
 | 1/??/2019 | UM2\_C\_Dual\_Endstop\_RollerPlate.gcode | 1:41 | RED | next |
 | 1/??/2019 | UM2\_Stop\_Block\_2each.gcode | 0:53 | BLACK | next |
-
+| 1/??/2019 | UM2\_Caps\_1each.gcode | 0:28 | BLACK |  |
+| 1/??/2019 | UM2\_belt\_anchor\_lower\_mirror.gcode | 2:00 | BLACK | |
+| 1/??/2019 | UM2\_belt\_anchor\_upper\_2each.gcode | 4:05 | RED | |
