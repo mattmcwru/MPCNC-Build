@@ -211,9 +211,9 @@ Cura Settings:
 | 1/24/2019 | UM2\_Z\_Lower\_C\_Burly.gcode | 3:29 | RED | ✅ |
 | 1/24/2019 | UM2\_XY\_C\_Burly.gcode | 14:01 | BLACK | ✅ |
 | 1/25/2019 | UM2\_hf\_tool\_mount\_bottom.gcode | 2:11 | RED | ✅ |
-| 1/25/2019 | UM2\_XY\_C\_Burly.gcode | 14:01 | BLACK | running |
-| 1/??/2019 | UM2\_C\_Dual\_Endstop\_RollerPlate.gcode | 1:41 | RED | next |
-| 1/??/2019 | UM2\_Stop\_Block\_2each.gcode | 0:53 | BLACK | next |
-| 1/??/2019 | UM2\_Caps\_1each.gcode | 0:28 | BLACK |  |
+| 1/25/2019 | UM2\_XY\_C\_Burly.gcode | 14:01 | BLACK | ✅ |
+| 1/28/2019 | UM2\_Caps\_1each.gcode | 0:28 | BLACK | ✅ |
+| 1/28/2019 | UM2\_C\_Dual\_Endstop\_RollerPlate.gcode | 1:41 | RED | running |
+| 1/28/2019 | UM2\_Stop\_Block\_2each.gcode | 0:53 | BLACK | running |
 | 1/??/2019 | UM2\_belt\_anchor\_lower\_mirror.gcode | 2:00 | BLACK | |
 | 1/??/2019 | UM2\_belt\_anchor\_upper\_2each.gcode | 4:05 | RED | |
