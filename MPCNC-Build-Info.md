@@ -42,7 +42,8 @@ Cut List ([Calc](http://workshop-buddy.com/cut-optimization-calculator.html))
 | | Name | Qty | Cost | Links |
 |:---:|:-----:|:-----:|:-----:|:-----:|
 |  | [Archim2](https://ultimachine.com/collections/electronics/products/archim2?variant=13739792466029) | 1 | $150 | [Amazon](https://www.amazon.com/Mini-RAMBo-3D-Printer-Controller/dp/B00XM7O0TK) |
-|  |  |  | $85 | [V1Eng Shop](https://shop.v1engineering.com/products/mini-rambo-1-3)
+|  | Mini-Rambo | 1 | $85 | [V1Eng Shop](https://shop.v1engineering.com/products/mini-rambo-1-3)
+| ✅ | Rambo 1.4 | 1 | $137 | [V1Eng Shop](https://shop.v1engineering.com/collections/parts/products/rambo-v1-3l) |
 |  | 12v ≥5A power supply | 1 |  | 12V/10A $16.99 [Amazon](https://www.amazon.com/LEDMO-Switching-Converter-Adapter-Transformer/dp/B01E6RMASC/ref=sr_1_4?s=electronics&ie=UTF8&qid=1546029853&sr=1-4&keywords=12v+10a+power+supply) |
 | ✅ | GT2 belt (4M = 24″x24″) | ~4m | $8.95 | [Amazon](https://www.amazon.com/Meters-pitch-wide-Timing-printer/dp/B00F2IQNX8) (Do not get the steel re-enforced ones.) |
 | ✅ | GT2 16T Pulley | 4 | $8.99 | [Amazon](https://www.amazon.com/Qunqi-5packs-Aluminum-Timing-Printer/dp/B01IMPM44O) |
@@ -213,7 +214,14 @@ Cura Settings:
 | 1/25/2019 | UM2\_hf\_tool\_mount\_bottom.gcode | 2:11 | RED | ✅ |
 | 1/25/2019 | UM2\_XY\_C\_Burly.gcode | 14:01 | BLACK | ✅ |
 | 1/28/2019 | UM2\_Caps\_1each.gcode | 0:28 | BLACK | ✅ |
-| 1/28/2019 | UM2\_C\_Dual\_Endstop\_RollerPlate.gcode | 1:41 | RED | running |
-| 1/28/2019 | UM2\_Stop\_Block\_2each.gcode | 0:53 | BLACK | running |
-| 1/??/2019 | UM2\_belt\_anchor\_lower\_mirror.gcode | 2:00 | BLACK | |
-| 1/??/2019 | UM2\_belt\_anchor\_upper\_2each.gcode | 4:05 | RED | |
+| 1/28/2019 | UM2\_C\_Dual\_Endstop\_RollerPlate.gcode | 1:41 | RED | ✅ |
+| 1/28/2019 | UM2\_Stop\_Block\_2each.gcode | 0:53 | BLACK | ✅ |
+| 1/28/2019 | UM2\_belt\_anchor\_lower\_mirror.gcode | 2:00 | BLACK | running |
+| 1/28/2019 | UM2\_belt\_anchor\_upper\_2each.gcode | 4:05 | RED | running |
+| 1/??/2019 | UM2\_Stop\_Block\_2each.gcode | 0:53 | BLACK |  |
+| 1/??/2019 | UM2\_Caps\_6closed\_3open.gcode | 1:53 | BLACK | |
+| 1/??/2019 | UM2\_Caps\_4open.gcode | 0:45 | RED | |
+
+5 closed black
+4 closed red
+3 open black
