@@ -145,12 +145,16 @@ Cura Settings:
 | Spacer Corner (Burly) | 4 ✅ | BLACK | [](MPCNC_BURLY_C_23p5/files/) | []() | 0:15 | 1:05 | 4.17 | 16.6 |
 | Foot (2018)       | 4 ✅ | RED | [C-Foot\_2018.STL](MPCNC_BURLY_C_23p5/files/C-Foot_2018.STL) | [UM2\_C-Foot_2018.gcode](UM2_C-Foot_2018.gcode) | 3:39 | 14:36 | 38 | 152 |
 |  ^^^^          | | | [UM2\_C-Foot\_2018\_x3.gcode](UM2_C-Foot_2018_x3.gcode) (3 up) | | 11:05 | 11:05 | 114 | 114 |
-| Corner Anchor Set | 4 ✅ | BLACK | [UM2\_belt\_anchor\_fullset.gcode](UM2_belt_anchor_fullset.gcode) | | 4:04 |  | 34 | | 
+| Corner Anchor Lower | 4 ✅ | BLACK | [UM2\_belt\_anchor\_fullset.gcode](UM2_belt_anchor_fullset.gcode) | | 4:04 |  | 34 | | 
+| Corner Anchor Upper | 4  | RED |  |  | 4:04 |  | 34 | | 
 | **XY ROLLERS** |
 | Roller          | 2 ✅ | BLACK | [C-Roller.STL](MPCNC_BURLY_C_23p5/files/C-Roller.STL) | [UM2\_C-Roller.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-Roller.gcode) | 7:39 | 15:18 | 82 | 164 |
 | Roller Mirror   | 2 ✅ | BLACK | [C-RollerM.STL](MPCNC_BURLY_C_23p5/files/C-RollerM.STL) | [UM2_C-RollerM.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerM.gcode) | 6:43 | 13:26 | 68 | 136 |
 | Roller Plate (optional Dual) (OLD PLATE DON'T USE) | 4 ✅ | RED | [C-RollerPlate.STL](MPCNC_BURLY_C_23p5/files/C-RollerPlate.STL) | [UM2\_C-RollerPlate_x4.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerPlate_x4.gcode) (4 up) | 1:10 | 1:10 | 9 | 9 |
-| Endstop Roller Plate | 4 | RED | | UM2\_C\_Dual\_Endstop\_RollerPlate.gcode | 
+| Endstop Roller Plate | 2 ✅ | RED | | UM2\_C\_Dual\_Endstop\_RollerPlate.gcode | 
+| Endstop Roller Plate Mirror | 2 | RED | | UM2\_C\_Dual\_Endstop\_RollerPlate.gcode | 
+| Endstop Block | 2 ✅ | BLACK | |  | 
+| Endstop Block Mirror | 2 ✅ | BLACK | |  | 
 | Roller Stepper Mount  | 4 ✅ | RED | [C-RollerMount.STL](MPCNC_BURLY_C_23p5/files/C-RollerMount.STL) | [UM2\_C-RollerMount.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_C-RollerMount.gcode) | 4:02 | 16:08 | 41 | 164 |
 | **MIDDLE ASSEMBLY** |
 | XY (Burly)      | 2 | BLACK | [XY\_C\_Burly.STL](MPCNC_BURLY_C_23p5/files/XY_C_Burly.STL) | [UM2\_XY\_C\_Burly.gcode](MPCNC_BURLY_C_23p5/gcode/UM2_XY_C_Burly.gcode) | 12:24 | 24:48 | 121 | 242 |
@@ -216,12 +220,13 @@ Cura Settings:
 | 1/28/2019 | UM2\_Caps\_1each.gcode | 0:28 | BLACK | ✅ |
 | 1/28/2019 | UM2\_C\_Dual\_Endstop\_RollerPlate.gcode | 1:41 | RED | ✅ |
 | 1/28/2019 | UM2\_Stop\_Block\_2each.gcode | 0:53 | BLACK | ✅ |
-| 1/28/2019 | UM2\_belt\_anchor\_lower\_mirror.gcode | 2:00 | BLACK | running |
-| 1/28/2019 | UM2\_belt\_anchor\_upper\_2each.gcode | 4:05 | RED | running |
-| 1/??/2019 | UM2\_Caps\_6closed\_3open.gcode | 1:53 | BLACK |  |
-| 1/??/2019 | UM2\_Caps\_4open.gcode | 0:45 | RED |  |
-| 1/??/2019 | UM2\_C\_Dual\_Endstop\_RollerPlateM\_x2.gcode | 0:50 | RED |  |
+| 1/28/2019 | UM2\_belt\_anchor\_lower\_mirror.gcode | 2:00 | BLACK | ✅ |
+| 1/28/2019 | UM2\_belt\_anchor\_upper\_2each.gcode | 4:05 | RED | ✅ |
+| 2/3/2019 | UM2\_C\_Dual\_Endstop\_RollerPlateM\_x2.gcode | 0:50 | RED | ✅ |
+| 2/3/2019 | UM2\_TapeWireGuideMount\_v8.gcode | 0:40 | BLACK | ✅ |
+| 2/3/2019 | UM2\_TapeWireGuideMount\_v8_Mirror.gcode | 0:43 | BLACK | ✅ |
+| 2/3/2019 | UM2\_Caps\_4closed.gcode | 0:45 | RED | ✅ |
+| 2/3/2019 | UM2\_TapeWireGuideZMount\_v2.gcode | 0:42 | RED | ✅ |
+| 2/3/2019 | UM2\_Caps\_6closed\_3open.gcode | 1:53 | BLACK | running |
+| 2/3/2019 | UM2\_TapeWireGuideTower\_v2.gcode | 3:33 | RED | running |
 
-5 closed black
-4 closed red
-3 open black
