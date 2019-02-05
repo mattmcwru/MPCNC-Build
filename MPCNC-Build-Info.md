@@ -227,6 +227,7 @@ Cura Settings:
 | 2/3/2019 | UM2\_TapeWireGuideMount\_v8_Mirror.gcode | 0:43 | BLACK | ✅ |
 | 2/3/2019 | UM2\_Caps\_4closed.gcode | 0:45 | RED | ✅ |
 | 2/3/2019 | UM2\_TapeWireGuideZMount\_v2.gcode | 0:42 | RED | ✅ |
-| 2/3/2019 | UM2\_Caps\_6closed\_3open.gcode | 1:53 | BLACK | running |
-| 2/3/2019 | UM2\_TapeWireGuideTower\_v2.gcode | 3:33 | RED | running |
+| 2/3/2019 | UM2\_Caps\_6closed\_3open.gcode | 1:53 | BLACK | ✅ |
+| 2/3/2019 | UM2\_TapeWireGuideTower\_v2.gcode | 3:33 | RED | ✅ |
+| 2/5/2019 | UM2\_TapeWireGuideMount\_v10.gcode | 1:30 | RED | next |
 
