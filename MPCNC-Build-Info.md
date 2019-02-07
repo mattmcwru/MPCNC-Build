@@ -222,12 +222,13 @@ Cura Settings:
 | 1/28/2019 | UM2\_Stop\_Block\_2each.gcode | 0:53 | BLACK | ✅ |
 | 1/28/2019 | UM2\_belt\_anchor\_lower\_mirror.gcode | 2:00 | BLACK | ✅ |
 | 1/28/2019 | UM2\_belt\_anchor\_upper\_2each.gcode | 4:05 | RED | ✅ |
-| 2/3/2019 | UM2\_C\_Dual\_Endstop\_RollerPlateM\_x2.gcode | 0:50 | RED | ✅ |
-| 2/3/2019 | UM2\_TapeWireGuideMount\_v8.gcode | 0:40 | BLACK | ✅ |
-| 2/3/2019 | UM2\_TapeWireGuideMount\_v8_Mirror.gcode | 0:43 | BLACK | ✅ |
-| 2/3/2019 | UM2\_Caps\_4closed.gcode | 0:45 | RED | ✅ |
-| 2/3/2019 | UM2\_TapeWireGuideZMount\_v2.gcode | 0:42 | RED | ✅ |
-| 2/3/2019 | UM2\_Caps\_6closed\_3open.gcode | 1:53 | BLACK | ✅ |
-| 2/3/2019 | UM2\_TapeWireGuideTower\_v2.gcode | 3:33 | RED | ✅ |
-| 2/5/2019 | UM2\_TapeWireGuideMount\_v10.gcode | 1:30 | RED | next |
+| 2/3/2019  | UM2\_C\_Dual\_Endstop\_RollerPlateM\_x2.gcode | 0:50 | RED | ✅ |
+| 2/3/2019  | UM2\_TapeWireGuideMount\_v8.gcode | 0:40 | BLACK | ✅ |
+| 2/3/2019  | UM2\_TapeWireGuideMount\_v8_Mirror.gcode | 0:43 | BLACK | ✅ |
+| 2/3/2019  | UM2\_Caps\_4closed.gcode | 0:45 | RED | ✅ |
+| 2/3/2019  | UM2\_TapeWireGuideZMount\_v2.gcode | 0:42 | RED | ✅ |
+| 2/3/2019  | UM2\_Caps\_6closed\_3open.gcode | 1:53 | BLACK | ✅ |
+| 2/3/2019  | UM2\_TapeWireGuideTower\_v2.gcode | 3:33 | RED | ✅ |
+| 2/5/2019  | UM2\_TapeWireGuideMount\_v10.gcode | 1:30 | RED | ✅ |
+| 2/?/2019  | UM2\_TapeWireGuideZMount\_v3.gcode | 5:34 | RED | next |
 
